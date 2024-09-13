@@ -10,8 +10,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "index.js",
-      "regions": ["sin1"]
+      "dest": "index.js"
     }
   ]
 }
